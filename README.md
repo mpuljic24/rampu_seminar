@@ -10,7 +10,7 @@ ni dodatni paketi za navigaciju.
 
 **[Tutorial s objašnjenjima koda i slikama](docs/TUTORIAL.md)**
 
-<img src="docs/slike/pocetna-android.png" alt="Početni ekran Android aplikacije s donjom navigacijom i gumbom za slanje poruke" width="300">
+
 
 ## Priprema
 
