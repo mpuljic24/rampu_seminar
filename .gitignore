@@ -1,0 +1,40 @@
+# Flutter i Dart: ponovno se stvaraju pripremom i izgradnjom projekta.
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+.widget_preview/
+
+# Lokalne postavke uređivača.
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Lokalne Android putanje, predmemorija i potpisivanje.
+android/local.properties
+android/.gradle/
+android/.cxx/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/key.properties
+*.jks
+*.keystore
+
+# Izlazne datoteke i privremeni podaci.
+*.apk
+*.aab
+*.zip
+*.log
+*.class
+*.pyc
+*.swp
+.DS_Store
+Thumbs.db
+app.*.symbols
+app.*.map.json
